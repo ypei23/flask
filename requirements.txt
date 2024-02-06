@@ -1,0 +1,7 @@
+Flask==0.10.1
+Werkzeug==0.16.0
+itsdangerous==0.15
+MarkupSafe==1.0
+dataclasses==0.8
+jinja2==2.1.1
+
